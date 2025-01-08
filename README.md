@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishitatalwar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishitatalwar/LeetCode/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
