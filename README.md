@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ishitatalwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ishitatalwar/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
