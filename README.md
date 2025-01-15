@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ishitatalwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ishitatalwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -89,4 +91,8 @@
 | [0619-biggest-single-number](https://github.com/ishitatalwar/LeetCode/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/ishitatalwar/LeetCode/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/ishitatalwar/LeetCode/tree/master/1161-project-employees-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
