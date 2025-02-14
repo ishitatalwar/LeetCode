@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishitatalwar/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ishitatalwar/LeetCode/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
@@ -44,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishitatalwar/LeetCode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ishitatalwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
