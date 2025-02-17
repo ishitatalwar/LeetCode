@@ -10,11 +10,13 @@
 | [0014-longest-common-prefix](https://github.com/ishitatalwar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishitatalwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishitatalwar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0402-remove-k-digits](https://github.com/ishitatalwar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ishitatalwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishitatalwar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/ishitatalwar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ishitatalwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ishitatalwar/LeetCode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/ishitatalwar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ishitatalwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Database
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ishitatalwar/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
