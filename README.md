@@ -38,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ishitatalwar/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ishitatalwar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -52,11 +53,13 @@
 | [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ishitatalwar/LeetCode/tree/master/0134-gas-station) |
 | [0287-find-the-duplicate-number](https://github.com/ishitatalwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishitatalwar/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ishitatalwar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ishitatalwar/LeetCode/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ishitatalwar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Database
 |  |
@@ -102,4 +106,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ishitatalwar/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
