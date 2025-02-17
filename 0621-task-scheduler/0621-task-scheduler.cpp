@@ -16,7 +16,7 @@ public:
         for(int i = 24; i>=0; i--){
             idleS -= min(chunks, counter[i]);
         }
-        // turnary operation 
+        // ternary operation 
         return idleS < 0 ? p : p + idleS;
     }
 };
