@@ -46,6 +46,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishitatalwar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ishitatalwar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/ishitatalwar/LeetCode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ishitatalwar/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ishitatalwar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ishitatalwar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
